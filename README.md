@@ -4,7 +4,7 @@
 
 <p align="center">
   <img src="https://img.shields.io/badge/cats-pink?style=for-the-badge" alt="cats badge" /> 
-  <span style="font-size: 1.2em; vertical-align: middle; margin: 0 6px;">>>> </span>
+  <img src="https://img.shields.io/badge/%3E%3E%3E-white?style=for-the-badge&color=ffffff&labelColor=ffffff&fontSize=24" alt="arrows" />
   <img src="https://img.shields.io/badge/bugs-lightgrey?style=for-the-badge" alt="bugs badge" />
 </p>
 <br/>
