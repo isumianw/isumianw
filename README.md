@@ -3,7 +3,7 @@
 </p>
 
 <p align="center">
-  cats >>> bugs
+  <img src="https://img.shields.io/badge/cats-»»»bugs-pink?style=for-the-badge&labelColor=ff69b4&color=808080" alt="cats >>> bugs badge" />
 </p>
 <br/>
 
