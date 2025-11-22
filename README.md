@@ -2,7 +2,9 @@
   <img src="https://github.com/isumianw/isumianw/blob/main/catbanner.jpg" width="100%" alt="banner" />
 </p>
 
-<h3>cats >>> bugs</h3>
+<p align="center">
+  cats >>> bugs
+</p>
 <br/>
 
 ## 🌐 Socials:
