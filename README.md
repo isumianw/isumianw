@@ -1,10 +1,10 @@
-add a bit more styling to cats >>> bugs:
 <p align="center">
   <img src="https://github.com/isumianw/isumianw/blob/main/catbanner.jpg" width="100%" alt="banner" />
 </p>
 
 <p>cats >>> bugs</p>
 <br/>
+
 ## 🌐 Socials:
 [![Discord](https://img.shields.io/badge/Discord-%237289DA.svg?logo=discord&logoColor=white)](https://discord.com/users/1101107808688152617) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/isumi-wickramasooriya-859a11321) 
 
