@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://github.com/isumianw/isumianw/blob/main/cat%20banner.jpg" width="100%" alt="banner" />
+  <img src="https://github.com/isumianw/isumianw/blob/main/cat%20banner.jpg" width="100%" height="75%" alt="banner" />
 </p>
 
 ## 🌐 Socials:
