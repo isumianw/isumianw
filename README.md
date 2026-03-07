@@ -47,6 +47,8 @@
 ### 📈 Contribution Activity
 
 <div align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=isumianw&layout=compact&theme=dracula&hide_border=true&border_radius=10" height="170" />
+  &nbsp;
   <img src="https://streak-stats.demolab.com?user=isumianw&theme=dracula&hide_border=true&border_radius=8" height="170" alt="streak graph" />
   
   <br/><br/>
