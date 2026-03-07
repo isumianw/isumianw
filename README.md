@@ -3,10 +3,12 @@
     <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=F700FF&center=true&vCenter=true&width=435&lines=Hi,+I'm+Isumi+👋" alt="Typing SVG" />
   </h1>
 
+  <br/>
   <a href="https://www.linkedin.com/in/isumi-wickramasooriya-859a11321" target="_blank">
     <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&style=for-the-badge" height="28" alt="linkedin" />
   </a>
   &nbsp;
+  
   <a href="https://discord.com/users/1101107808688152617" target="_blank">
     <img src="https://img.shields.io/static/v1?message=Discord&logo=discord&label=&color=7289DA&logoColor=white&style=for-the-badge" height="28" alt="discord" />
   </a>
