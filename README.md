@@ -55,10 +55,8 @@
 
 ###
 
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/isumianw/isumianw/output/pacman-contribution-graph-dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/isumianw/isumianw/output/pacman-contribution-graph.svg">
-  <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/isumianw/isumianw/output/pacman-contribution-graph.svg">
-</picture>
+<div align="center">
+  <img src="https://raw.githubusercontent.com/isumianw/isumianw/main/github-isometric-city.svg" alt="3D Isometric City" width="100%" />
+</div>
 
 ###
