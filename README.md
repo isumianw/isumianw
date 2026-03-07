@@ -2,7 +2,7 @@
   <img height="180" src="https://media.giphy.com/media/v1.Y2lkPWVjZjA1ZTQ3OWlocDNiNXZlamg5azNwNG1rZXBqemV3NDJuMnZxMW1heXc1cDVqNSZlcD12MV9naWZzX3NlYXJjaCZjdD1n/nFLW7PNGgN3lI68rdv/giphy.gif" />
 
   <h1>Hi, I'm Isumi 👋</h1>
-  <p><b>Mobile Developer | Backend Enthusiast | Cat Lover >>> Bugs</b></p>
+  <p><b>Mobile Developer | Backend Enthusiast </b></p>
 
   <a href="https://www.linkedin.com/in/isumi-wickramasooriya-859a11321" target="_blank">
     <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&style=for-the-badge" height="28" alt="linkedin" />
@@ -54,10 +54,4 @@
     <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/isumianw/isumianw/output/pacman-contribution-graph.svg">
     <img alt="Pacman Game" src="https://raw.githubusercontent.com/isumianw/isumianw/output/pacman-contribution-graph.svg" width="100%">
   </picture>
-</div>
-
-<br/>
-
-<div align="right">
-  <i>Built with ❤️ and Markdown</i>
 </div>
