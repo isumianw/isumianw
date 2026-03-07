@@ -1,0 +1,19 @@
+name: Generate Isometric City
+
+on:
+  schedule:
+    - cron: "0 0 * * *" # Runs every midnight
+  workflow_dispatch:
+
+jobs:
+  build:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Generate 3D City
+        uses: lowlighter/metrics@latest
+        with:
+          token: ${{ secrets.GITHUB_TOKEN }}
+          base: ""
+          plugin_isocalendar: yes
+          plugin_isocalendar_duration: half-year # Show last 6 months
+          filename: github-isometric-city.svg
