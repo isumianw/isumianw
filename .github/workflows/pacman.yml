@@ -15,8 +15,8 @@ jobs:
         with:
           github_user_name: isumianw
           outputs: |
-            dist/pacman-contribution-graph.svg?color_snake=#73cfee&color_dots=#282a36,#f7f7f1,#ff6e96,#73cfee,#ff6e96
-            dist/pacman-contribution-graph-dark.svg?color_snake=#73cfee&color_dots=#282a36,#f7f7f1,#ff6e96,#73cfee,#ff6e96
+            dist/pacman-contribution-graph.svg?color_snake=#eb00f4&color_dots=#282a36,#f6ced4,#ff6e96,#73cfee,#ff6e96
+            dist/pacman-contribution-graph-dark.svg?color_snake=#eb00f4&color_dots=#282a36,#f6ced4,#ff6e96,#73cfee,#ff6e96
         env:
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
 
