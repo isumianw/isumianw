@@ -1,8 +1,6 @@
 <div align="center">
-  <img height="180" src="https://media.giphy.com/media/v1.Y2lkPWVjZjA1ZTQ3OWlocDNiNXZlamg5azNwNG1rZXBqemV3NDJuMnZxMW1heXc1cDVqNSZlcD12MV9naWZzX3NlYXJjaCZjdD1n/nFLW7PNGgN3lI68rdv/giphy.gif" />
-
   <h1>
-    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=F700FF&center=true&vCenter=true&width=435&lines=Hi,+I'm+Isumi+👋;Mobile+Developer;Spring+Boot+Enthusiast;Cat+Lover+>>>+Bugs" alt="Typing SVG" />
+    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=F700FF&center=true&vCenter=true&width=435&lines=Hi,+I'm+Isumi+👋" alt="Typing SVG" />
   </h1>
 
   <a href="https://www.linkedin.com/in/isumi-wickramasooriya-859a11321" target="_blank">
