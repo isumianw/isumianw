@@ -21,8 +21,6 @@
   </a>
 </div>
 
-### 💻 Tech Stack
-
 ### 🚀 Tech Stack in Motion
 
 <div align="center">
