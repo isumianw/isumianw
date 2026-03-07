@@ -1,4 +1,5 @@
 <div align="center">
+  <img src="https://github.com/isumianw/isumianw/blob/main/illustration.png" width="300" alt="Isumi Illustration" />
   <h1>
     <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=F700FF&center=true&vCenter=true&width=435&lines=Hi,+I'm+Isumi+👋" alt="Typing SVG" />
   </h1>
